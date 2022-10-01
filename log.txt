@@ -1,0 +1,120 @@
+500 9
+seq: 393ms
+seq1: 86ms
+seq2: 102ms
+1
+block: 431ms
+block1: 134ms
+block2: 180ms
+5
+block: 353ms
+block1: 75ms
+block2: 84ms
+10
+block: 362ms
+block1: 82ms
+block2: 92ms
+16
+block: 369ms
+block1: 82ms
+block2: 76ms
+20
+block: 364ms
+block1: 97ms
+block2: 143ms
+25
+block: 358ms
+block1: 95ms
+block2: 92ms
+50
+block: 367ms
+block1: 67ms
+block2: 69ms
+100
+block: 297ms
+block1: 89ms
+block2: 122ms
+150
+block: 358ms
+block1: 127ms
+block2: 203ms
+1500 9
+seq: 14240ms
+seq1: 2801ms
+seq2: 4553ms
+1
+block: 17193ms
+block1: 3643ms
+block2: 5677ms
+5
+block: 7704ms
+block1: 1584ms
+block2: 1866ms
+10
+block: 10200ms
+block1: 1851ms
+block2: 3566ms
+16
+block: 11139ms
+block1: 1968ms
+block2: 3681ms
+20
+block: 10326ms
+block1: 1941ms
+block2: 3299ms
+25
+block: 9445ms
+block1: 1563ms
+block2: 3482ms
+50
+block: 10365ms
+block1: 1734ms
+block2: 2498ms
+100
+block: 10388ms
+block1: 2094ms
+block2: 2150ms
+150
+block: 9739ms
+block1: 2097ms
+block2: 2153ms
+1024 9
+seq: 10690ms
+seq1: 2757ms
+seq2: 3043ms
+1
+block: 14082ms
+block1: 2841ms
+block2: 4490ms
+5
+block: 4014ms
+block1: 734ms
+block2: 740ms
+10
+block: 3122ms
+block1: 632ms
+block2: 676ms
+16
+block: 3248ms
+block1: 611ms
+block2: 1130ms
+20
+block: 3221ms
+block1: 566ms
+block2: 809ms
+25
+block: 3303ms
+block1: 542ms
+block2: 1256ms
+50
+block: 2648ms
+block1: 648ms
+block2: 1037ms
+100
+block: 3209ms
+block1: 835ms
+block2: 889ms
+150
+block: 3505ms
+block1: 971ms
+block2: 1007ms
